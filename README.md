@@ -24,9 +24,9 @@ Navigating higher education, vocational training (*Ausbildung*), and bureaucrati
 
 Experience Voraus AI in action! The full walkthrough demonstrates user authentication, video splash screen, interactive Berlin mapping, multimodal AI video analysis, APS certificate generation, and dynamic AI advising.
 
-👉 **[Watch / Download Full Demo Video (MP4)](demo%20vedio/Educaro%20APP%20Demo%20Vedio.mp4)**
+👉 **[Watch / Download Full Demo Video (MP4)](Educaro%20APP%20Demo%20Vedio.mp4)**
 
-> *The demo video is available directly inside the repository under [`demo vedio/Educaro APP Demo Vedio.mp4`](demo%20vedio/Educaro%20APP%20Demo%20Vedio.mp4).*
+> *The demo video is available directly inside the repository root under [`Educaro APP Demo Vedio.mp4`](Educaro%20APP%20Demo%20Vedio.mp4).*
 
 ---
 
@@ -208,8 +208,7 @@ Voraus-AI/
 │   │   └── opportunities/             # Course recommendations & matching
 │   └── prisma/                        # Prisma schema & database migrations
 ├── datasets/                          # 45+ Curated German Education & Living Cost Datasets
-├── demo vedio/                        # Application Demonstration Video
-│   └── Educaro APP Demo Vedio.mp4     # Full walkthrough of Voraus AI features
+├── Educaro APP Demo Vedio.mp4         # Full walkthrough demonstration video of Voraus AI
 └── README.md                          # Project documentation
 ```
 
