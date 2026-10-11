@@ -24,9 +24,23 @@ Navigating higher education, vocational training (*Ausbildung*), and bureaucrati
 
 Experience Voraus AI in action! The full walkthrough demonstrates user authentication, video splash screen, interactive Berlin mapping, multimodal AI video analysis, APS certificate generation, and dynamic AI advising.
 
-👉 **[Watch / Download Full Demo Video (MP4)](Educaro%20APP%20Demo%20Vedio.mp4)**
+<p align="center">
+  <a href="Educaro%20APP%20Demo%20Vedio.mp4" title="Click to watch full HD demo video">
+    <img src="assets/demo_preview.gif" alt="Voraus AI App Walkthrough Demo" width="300" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);" />
+  </a>
+  <br />
+  <sub>🎬 <b>Live Walkthrough Preview</b> (Click the preview above or <a href="Educaro%20APP%20Demo%20Vedio.mp4"><b>click here to watch/download full HD video</b></a> • 3m 14s)</sub>
+</p>
 
-> *The demo video is available directly inside the repository root under [`Educaro APP Demo Vedio.mp4`](Educaro%20APP%20Demo%20Vedio.mp4).*
+| Milestone | Timestamp | Highlights in Demo |
+|---|---|---|
+| 🎬 **Splash & Authentication** | `0:00 - 0:30` | Looping video splash screen, secure registration, and goal selection |
+| 📄 **Document Upload & OCR** | `0:30 - 1:15` | Automated extraction of passport & academic credentials via NVIDIA Vision |
+| 🤖 **Dual-Engine AI Advisor** | `1:15 - 2:00` | Conversational advisor with live university recommendations & voice agent |
+| 🗺️ **Interactive Berlin Map** | `2:00 - 2:40` | Live student ecosystem with 40+ curated minijobs, Indian eateries & welfare |
+| 📝 **APS & Deadlines Engine** | `2:40 - 3:14` | One-click APS Form PDF generator and application milestone tracker |
+
+> 💡 **Direct Video File**: The raw video is hosted directly in this repository at [`Educaro APP Demo Vedio.mp4`](Educaro%20APP%20Demo%20Vedio.mp4) (H.264 / AAC • 20.4 MB).
 
 ---
 
@@ -207,6 +221,9 @@ Voraus-AI/
 │   │   ├── map/                       # Map synchronization endpoints
 │   │   └── opportunities/             # Course recommendations & matching
 │   └── prisma/                        # Prisma schema & database migrations
+├── assets/                            # Visual previews & documentation media
+│   ├── demo_preview.gif               # Animated mobile walkthrough demo
+│   └── demo_thumbnail.png             # Video poster thumbnail
 ├── datasets/                          # 45+ Curated German Education & Living Cost Datasets
 ├── Educaro APP Demo Vedio.mp4         # Full walkthrough demonstration video of Voraus AI
 └── README.md                          # Project documentation
